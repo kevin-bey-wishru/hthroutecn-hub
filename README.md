@@ -1,2 +1,14 @@
 # hthroutecn-hub
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
